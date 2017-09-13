@@ -4,5 +4,5 @@
  2. 投到哪个点数就从对方的分数里拿几分，
  3. 看谁能先把对方的分赢完。 
  
-
+[![youtube图片](https://github.com/TDCQ/WhoGetTenFirst/blob/master/intro.png)](https://www.youtube.com/watch?v=ePf82cdmKrA)
 
